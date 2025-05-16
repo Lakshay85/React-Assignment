@@ -1,0 +1,31 @@
+.container{
+  padding:2rem;
+  max-width: 600px;
+  margin: auto;
+  
+}
+h2{
+  text-align: center;
+   color: blue;
+}
+
+input{
+  width: 100%;
+      padding: 0.5rem;
+      font-Size: 1rem;
+      border-Radius: 8px;
+      border: 1px solid #ccc;
+}
+
+ul{
+list-Style: none;
+padding: 0;
+margin-Top: 1rem;
+border: 1px solid #eee;
+border-Radius: 8px;
+}
+
+li{
+padding: 0.5rem;
+border-Bottom: 1px solid #eee;
+}
